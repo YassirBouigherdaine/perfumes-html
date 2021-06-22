@@ -142,6 +142,7 @@
     <None Include="index.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
+    <None Include="MyStyle.css" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

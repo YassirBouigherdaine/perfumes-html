@@ -18,5 +18,8 @@
     <None Include="index.htm">
       <Filter>Fichiers sources</Filter>
     </None>
+    <None Include="MyStyle.css">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
   </ItemGroup>
 </Project>
