@@ -21,5 +21,14 @@
     <None Include="MyStyle.css">
       <Filter>Fichiers d%27en-tête</Filter>
     </None>
+    <None Include="Perfumes.htm">
+      <Filter>Fichiers sources</Filter>
+    </None>
+    <None Include="HairCuts.htm">
+      <Filter>Fichiers sources</Filter>
+    </None>
+    <None Include="FashionStyle.htm">
+      <Filter>Fichiers sources</Filter>
+    </None>
   </ItemGroup>
 </Project>
