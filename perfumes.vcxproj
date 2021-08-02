@@ -145,6 +145,7 @@
     <None Include="FashionStyle.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
+    <None Include="myScript.js" />
     <None Include="Perfumes.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
@@ -152,6 +153,12 @@
       <DeploymentContent>true</DeploymentContent>
     </None>
     <None Include="MyStyle.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="perfumes.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
